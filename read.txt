@@ -1,0 +1,19 @@
+1. register 
+{
+  "name": "radha",
+  "email":"radha131@gmail.com",
+  "password":"mmm",
+  "gender":"female"
+  
+}
+
+
+
+
+
+
+routes
+1. register- post  :  
+2. login -post     : 
+3. post           :http://localhost:3000/post
+4. patch ;http://localhost:3000/post/update/63c5213e6a24d694df8db973
